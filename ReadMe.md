@@ -12,8 +12,11 @@
  [![pmengiba's 42 stats](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/stats?cursusId=21&coalitionId=275)](https://github.com/Nimon77/badge42) [![pmengiba's 42 stats](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/stats?cursusId=9&coalitionId=215)](https://github.com/Nimon77/badge42)
  
 # ✅ 42 ProjectScore:
-[![pmengiba's 42 ft_printf Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4080839)](https://github.com/Nimon77/badge42)
-[![pmengiba's 42 Libft Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4063924)](https://github.com/Nimon77/badge42)
+Libft:<br/>
+[![pmengiba's 42 Libft Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4063924)](https://github.com/Nimon77/badge42)<br/>
+Ft_printf:<br/>
+[![pmengiba's 42 ft_printf Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4080839)](https://github.com/Nimon77/badge42)<br/>
+Born2beroot:<br/>
 [![pmengiba's 42 Born2beroot Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4080839)](https://github.com/Nimon77/badge42)
 
 # 📊 GitHub Stats:
