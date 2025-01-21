@@ -32,6 +32,10 @@
 <br/>
 🦠 Cellule1-0-weasel: [![pmengiba's 42 Cellule1-0-weasel Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4096201)](https://github.com/Nimon77/badge42)
 <br/>
+🦠 Cellule1-1-weasel: [![pmengiba's 42 Cellule1-1-weasel Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4096499)](https://github.com/Nimon77/badge42)
+<br/>
+🦠 Cellule1-2-weasel: [![pmengiba's 42 Cellule1-2-weasel Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4097696)](https://github.com/Nimon77/badge42)
+<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PabloMengibar&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PabloMengibar&theme=react&hide_border=false)<br/>
