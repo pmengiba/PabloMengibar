@@ -36,6 +36,16 @@
 <br/>
 🦠 Cellule1-2-weasel: [![pmengiba's 42 Cellule1-2-weasel Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4097696)](https://github.com/Nimon77/badge42)
 <br/>
+🦠 Cellule1-3-weasel: [![pmengiba's 42 Cellule1-3-weasel Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4097929)](https://github.com/Nimon77/badge42)
+<br/>
+🔐 Cellule2-0-gecko: [![pmengiba's 42 Cellule1-3-weasel Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4097929)](https://github.com/Nimon77/badge42)
+<br/>
+🔐 Cellule2-1-gecko: [![pmengiba's 42 Cellule2-1-gecko  Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4098303)](https://github.com/Nimon77/badge42)
+<br/>
+🔐 Cellule2-2-gecko: [![pmengiba's 42 Cellule2-2-gecko  Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4098555)](https://github.com/Nimon77/badge42)
+<br/>
+🔐 Cellule2-3-gecko: [![pmengiba's 42 Cellule2-3-gecko  Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4098556)](https://github.com/Nimon77/badge42)
+<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PabloMengibar&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PabloMengibar&theme=react&hide_border=false)<br/>
