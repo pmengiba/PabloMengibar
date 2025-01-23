@@ -17,7 +17,9 @@
 🖨️ Ft_printf:
 [![pmengiba's 42 ft_printf Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4080839)](https://github.com/Nimon77/badge42)<br/>
 🖥️ Born2beroot:
-[![pmengiba's 42 Born2beroot Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4090599)](https://github.com/Nimon77/badge42)
+[![pmengiba's 42 Born2beroot Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4090599)](https://github.com/Nimon77/badge42)<br/>
+📝 Get_next_line:
+[![pmengiba's 42 get_next_line Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4088547)](https://github.com/Nimon77/badge42)<br/>
 
 # 🛡️ 42 Discovery Piscine - Cybersecurity:
 🖥️ Shell-0-0 :[![pmengiba's 42 Shell-0-0 Score](https://badge.nimon.fr/api/v2/cm5vej45a1479201o58i9pktib/project/4094708)](https://github.com/Nimon77/badge42) <br/>
